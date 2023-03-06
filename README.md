@@ -3,7 +3,7 @@
 - 📍 I am a Doctor of Physical Therapy turned Software Engineer.
 - 🌱 I’m currently learning backend software engineering at Turing School of Software & Design (ACCET-accredited program).
 - 👯 I’m looking to collaborate on anything!
-- 💬 Ask me about my experience at Turing Software School
+- 💬 Ask me about my experience at Turing School of Software & Design
 - 📫 How to reach me: anhtran811@gmail.com
 - 🔍 Connect with me: [LinkedIn](https://www.linkedin.com/in/anhtran8/)
 
