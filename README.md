@@ -3,7 +3,7 @@
 - 📍 I am a Doctor of Physical Therapy turned Software Engineer.
 - 📓 I'm currently in Module 4 at Turing School of Software & Design (ACCET-accredited program).
   - 🎓 anticipated graduation: April 2023
-- 🌱 I'm currently learning GraphQL and AWS.
+- 🌱 I'm currently learning GraphQL and Python.
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my career change!
 - 📫 How to reach me: anhtran811@gmail.com
