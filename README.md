@@ -1,8 +1,7 @@
 <h1> Hello World👋 </h1>
 
 - 📍 I am a Doctor of Physical Therapy turned Software Engineer.
-- 📓 I'm currently in Module 4 at Turing School of Software & Design (ACCET-accredited program).
-  - 🎓 anticipated graduation: April 2023
+- 🎓 I am an alumni of Turing School of Software and Design.
 - 🌱 I'm currently learning GraphQL and React.
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my career change!
