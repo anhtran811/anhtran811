@@ -1,10 +1,10 @@
 <h1> Hello World👋 </h1>
 
-- 💻 Full Stack Engineer Intern at Parachute Health.
+- 💻 Full Stack Engineer at Parachute Health.
   - Ruby on Rails, React JS with Typescript
 - 📍 I am a Doctor of Physical Therapy turned Software Engineer.
 - 🎓 I am an alumni of Turing School of Software and Design.
-- 🌱 I'm currently learning GraphQL and React.
+- 🌱 I'm currently React JS with Typescript
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my career change!
 - 📫 How to reach me: anhtran811@gmail.com
