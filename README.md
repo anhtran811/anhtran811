@@ -4,7 +4,7 @@
   - Ruby on Rails, React JS with Typescript
 - 📍 I am a Doctor of Physical Therapy turned Software Engineer.
 - 🎓 I am an alumni of Turing School of Software and Design.
-- 🌱 I'm currently React JS with Typescript
+- 🌱 I'm currently learning React JS with Typescript
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my career change!
 - 📫 How to reach me: anhtran811@gmail.com
